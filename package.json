@@ -1,0 +1,23 @@
+{
+  "name": "code_cowboy-jasmine-helper_setup",
+  "version": "0.0.1",
+  "description": "tool for convenient setup of Jasmine helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toaster/jasmine-helper_setup.git"
+  },
+  "author": "Tilo Prütz <tilo@pruetz.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toaster/jasmine-helper_setup/issues"
+  },
+  "homepage": "https://github.com/toaster/jasmine-helper_setup#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}
